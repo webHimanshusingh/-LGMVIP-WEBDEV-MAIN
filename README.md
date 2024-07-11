@@ -2,8 +2,6 @@
 
 Create a single page website using HTML, CSS and JavaScript
 
-<a href="https://composey.netlify.app" target="_blank">**Visit Now** 🚀</a>
-
 ## 📌 Tech Stack
 [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/jigar-sable/LGMVIP-WebDev/search?l=html)&nbsp;
 [![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/jigar-sable/LGMVIP-WebDev/search?l=css)&nbsp;
@@ -13,7 +11,8 @@ Create a single page website using HTML, CSS and JavaScript
 
 ## 📌 Sneak Peek of Site 🙈 :
 
-![price](https://user-images.githubusercontent.com/64949957/129468256-be5c7ce6-4237-42bb-8046-b415b7fca09d.PNG)
+
+![Screenshot 2024-07-11 170742](https://github.com/webHimanshusingh/-LGMVIP-WEBDEV-MAIN/assets/170223793/7b8b2fe8-fad7-47f9-85dd-83d56ecf2f2c)
 
 ## Task 2 (Intermediate Level):
 Create a web application using create-react-app
@@ -28,9 +27,5 @@ Create a web application using create-react-app
 
 
 ## 📌 Sneak Peek of Site 🙈 :
-![task2readme](https://user-images.githubusercontent.com/64949957/129468192-4186871a-f991-455e-a9ac-f2b66cb6ba6f.gif)
 
-
-**© 2021 Jigar Sable**
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+![Screenshot 2024-07-11 170822](https://github.com/webHimanshusingh/-LGMVIP-WEBDEV-MAIN/assets/170223793/0311f357-d340-48ea-97d4-102725bfe215)

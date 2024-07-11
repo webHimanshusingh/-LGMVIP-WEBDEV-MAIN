@@ -1,4 +1,6 @@
 ## Task 1 (Beginner Level):
+LinkedIn- https://www.linkedin.com/in/website-himanshu-singh<br>
+GitHub- https://github.com/webHimanshusingh<br>
 
 Create a single page website using HTML, CSS and JavaScript
 
